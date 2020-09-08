@@ -1,0 +1,43 @@
+Open Browser     url    chrome
+Input Text 
+Input Text
+Click Element 
+Click Button
+Maximize Browser Window
+Close Browser
+Should Be True
+Should Be Equal
+Run Keyword If
+Wait Until Keyword Succeeds
+Wait Until Page Contains Element
+Get Location
+Get Text 
+log
+log to console
+Minimize Browser Window
+
+
+selenium locators:
+
+find_element_by_id.
+find_element_by_name.
+find_element_by_xpath.
+find_element_by_link_text.
+find_element_by_partial_link_text.
+find_element_by_tag_name.
+find_element_by_class_name.
+find_element_by_css_selector.
+
+
+selenium exceptions :
+
+NoSuchElementException.
+StaleElementReferenceException.
+ElementNotVisibleException.
+ElementNotInteractableException.
+TimeoutException.
+
+
+
+
+

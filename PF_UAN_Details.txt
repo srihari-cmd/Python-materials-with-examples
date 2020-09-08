@@ -1,0 +1,32 @@
+NEW PF UAN NO : 101460418303
+PWD : Calsoft@588
+
+
+OLD PF UAN NO : 101065036142
+PWD : Calsoft@5889
+
+bank details 
+
+a/c name : PAMPANA SRIHARI
+a/c no : 10003929423
+
+ifsc : IDFB0080151
+
+
+pan card 
+
+details
+name : PAMPANA SRIHARI
+no : GKRPS8158A
+
+constructor 
+
+constructor is a method used to initialize values to the instance variables .
+
+
+10 days feb
+
+17 days march
+
+
+sriharip588-1@okhdfcbank

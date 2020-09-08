@@ -1,0 +1,40 @@
+log to console
+Should Be True     '${a}'=='${b}'
+Input Text    id=username  ${user}
+Input Text    id=username  ${user}
+Click Element   class=${sumbit}
+${a}   Get Location
+Should Be Equal    ${a}    http://ctl.eng.netapp.com/    log    "the url has matched successfully"
+wait until page contains element    ${resrv_clus_link}    timeout=120
+${val1}    Get Text    link=${resrv_clus_link}
+Run Keyword If    '${val1}' == "Reserve Cluster"    Log To Console    Reserve Cluster Validated success
+Click Element    link=${resrv_clus_link}
+${title_add}    Get Title
+Should Be True     '${val_title1}' == '${title_add}'
+Wait Until Keyword Succeeds   100 sec    1 sec    Click Element    id=${add_testbed_tab_id}
+Scroll Element Into View    id=${add_testbed_kart_id}
+wait until page contains element    ${proj_title_xpath}    timeout=120
+${val2}    Get Text    xpath=${proj_title_xpath}
+Wait Until Keyword Succeeds   100 sec    1 sec    Click Button    id=${submit_butn_id}
+@{list_all}=    Split String    ${val_id}    :    1
+log to console    @{list_all}
+    	
+log    Setup Started
+Open Browser   ${url}  chrome
+Maximize Browser Window
+Close Browser
+[Documentation]    any text
+
+
+
+log  
+Open Browser   ${url}  chrome
+Maximize Browser Window
+
+log    Teardowm Started
+Close Browser
+
+Suite Setup    log    I am inside Test Suite Setup
+Suite Teardown    log    I am inside Test Suite Teardown
+Test Setup      MySetup
+Test Teardown    MyTeardown

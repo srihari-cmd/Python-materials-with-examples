@@ -1,0 +1,34 @@
+1.how to get all files and directories into a file?
+2.i have two list contains duplicate values, i want make in to one list and i want count the values repated in list?
+3.how to read a file in python?
+4.I have a file with data .I want to copy the data in to a new file?
+5.what is generator? how can you find in code wheather generator used or not?
+6.what is decorator?how can you write the decorator?
+7.what is inheritance ? can you write one example ?
+8.what is lambda? what is the syntax of lambda?
+9.how many methods are in regular exprission? what is diffrence b/w match and search? give some examples?
+10.I have a file contains data.In data the string is error repeated more than n times. i want to count error how many times are repeated in file?
+11.what is zip function? what is use of it?
+12.what is difference b/w defect and bug?
+13.what is difference b/w regression and retesting?
+14.how to handle pop ups in selenium?
+15.what are all the data types in python? and what is difference b/w list and tuple?
+16.what is set data type?
+17. what is use of union method in set data type?
+18.what is smoke testing?when we can do the smoke testing?
+19.write a program of vowels? i have a string in that string want to get count which is contains vowels in a string?
+20.what is deep copy and shallow copy?
+21.what is difference b/w range and xrange?
+22.what is difference b/w compiler and intepriter?
+23.I have a string with differnet words I want to count the words how many words are availabe ?
+24.how can you get version and bit for system in linux?
+25.what is difference b/w raid 5 and raid 6?which raid are used in netapp?
+26.what is p4 or perforce? what is burt how to raise a burt ? 
+27.how to handle windows in selenium?
+28.what is constuctor ? what is use of it?
+29.what is self? use of self?
+30.what is difference b/w multi level inhertance and multiple inheritance? 
+
+
+   
+

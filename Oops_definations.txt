@@ -1,0 +1,18 @@
+polymorphism
+
+* -->an object behaviour will get change during run time. by using inhertence and overriding we can achive it.
+
+
+Encapsulation
+
+1. Encapsulation is wrapping data or functionality(methods accessing data) together into single unit.
+
+2. Giving protection to the class or class members. Using access specifiers/modifiers we can achive it.
+
+
+abstract 
+
+--> For Abstract class we can't create an instance.
+--> An abstract method is a method that is declared, but contains no implementation.
+--> By defining an abstract base class, you can define a common API for a set of subclasses.
+--> By using abc module we can define abstract class.

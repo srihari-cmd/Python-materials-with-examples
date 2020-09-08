@@ -1,0 +1,25 @@
+1. pwd 
+2.ls 
+3. ls -l
+4. cd ..
+5. ls -ll
+6. ls -i
+
+
+
+how to install the packages in linux below are the commands 
+-----------------------------------------------------------
+
+  137  apt-get --version
+  138  cat /etc/apt/sources.list
+  139  apt-get pkgnames 
+  140  apt-cahche pkgnames 
+  141  apt-cache pkgnames 
+  142  apt-cache pkgnames | gep tomcat
+  143  apt-cache pkgnames | grep tomcat
+  145  apt-get install tomcat9
+  146  apt-get install -y tomcat9
+  147  apt-get upgrade tomcat
+  148  apt-get upgrade
+  149  apt-get remove tomcat9
+  150  apt-get remove --purge tomcat9

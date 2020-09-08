@@ -1,0 +1,49 @@
+1.filter ,map,reduce ,and lambda.
+2.constuctor.
+3.iterator.
+4.data types.
+5.factorial,fibonacci and even numbers.
+6.funtions
+7.file handling (read,write,append,r+,w+,a+,seek,tell,read,readline,readlines,write,writelines)
+8.regular expression
+
+
+prathap reddy
+
+9986581790
+
+
+generator:
+
+using generator we can execute a block of code based on the demand.using yield keyword we can generate function.
+
+
+ generator function is a function which returns generator-iterator with the help of yield keyword
+Generators are used to create iterators, but with a different approach. Generators are simple functions 
+which return an iterable set of items,
+one at a time, in a special way. When an iteration over a set of item starts using the for statement, 
+the generator is run.
+
+generator is a function that returns an object (iterator) which we can iterate over (one value at a time).
+using yield keyword we can achive it.
+
+decorator:
+
+using decorator we can change the behaviour of the existing function at the compile time itself 
+constuctor :
+
+constructor is a method it can be used to intialize the values to the instance variables .
+
+iterator:
+
+using iterators we can get a sequence of value based on demand.using iter() we can achive it.
+using next() you can get values from iterators.
+
+iterator is an object that contains countable number of values.
+using iter and next methods we can achive it.
+
+zip:
+using zip function we can make combination of iterators
+
+ 
+
