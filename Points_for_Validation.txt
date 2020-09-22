@@ -1,0 +1,9 @@
+1.need to wait for long time for installing the host still get completed and wait untill will get the version
+
+2.need to cross check version using status(running or etc).
+
+3.need to add clusters parallelly in browser like multiple(tabs).
+
+4.need to wait for 20 mins for getting the hosts running up. if it will not work until 20 min then it will move furture.
+
+5.need to validate some required conditions using pytest.

@@ -45,5 +45,7 @@ using iter and next methods we can achive it.
 zip:
 using zip function we can make combination of iterators
 
- 
+A NAS is a single storage device that serves files over Ethernet and is relatively inexpensive and easy to set up, 
+while a SAN is a tightly coupled network of multiple devices that work with block-based data and is more expensive 
+and complex to set up and manage .
 
