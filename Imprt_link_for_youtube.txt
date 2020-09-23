@@ -1,0 +1,33 @@
+1. it is for allure reports generate using pytest with python.(below link)?
+How To Generate Allure Reports in Selenium with Python & PyTest
+
+https://www.youtube.com/watch?v=kP-PnWBJPqA
+
+1.1 it is version for allure reports module? central repository (below link)? 
+
+https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/2.13.3/
+
+
+2. it is for robot framework module (selenium libreary)(below link)?
+
+https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#Input%20Text
+https://robotframework.org/
+
+
+3. it is for logging module for basic steps to impliment(below link)? 
+Python Tutorial: Logging Basics - Logging to Files, Setting Levels, and Formatting
+
+https://www.youtube.com/watch?v=-ARI4Cz-awo
+
+
+4. Selenium with Python | PyTest HTML Report Generation | pytest-html module (below link) ?
+
+https://www.youtube.com/watch?v=xNo4G-njtJk
+
+5. basics for perforce netapp(below link)?
+
+https://www.perforce.com/perforce/doc.051/manuals/p4guide/03_quickstart.html
+
+
+
+
